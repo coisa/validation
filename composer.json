@@ -1,5 +1,5 @@
 {
-    "name": "coisa/filter",
+    "name": "coisa/validation",
     "description": "Validation Abstraction Layer",
     "type": "library",
     "license": "MIT",
